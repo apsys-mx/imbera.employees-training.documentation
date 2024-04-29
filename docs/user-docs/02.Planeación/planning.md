@@ -9,12 +9,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac dui placerat,
 
 ## Solicitudes de capacitación
 
+![Administración de cursos](../../../static/img/solicitudes.png)
+
 Suspendisse aliquet bibendum nulla sollicitudin posuere. Sed sed dui lobortis, placerat dui at, iaculis nisl. Nunc sed lacus ac metus auctor rhoncus. Etiam placerat ligula ut blandit convallis. Duis euismod nulla et risus scelerisque, eu commodo libero tincidunt. Proin tellus diam, vulputate eget fermentum eget, consectetur vel purus. Sed sed sodales nisi. Donec blandit mi lacus, euismod malesuada lacus molestie tincidunt. Sed pretium arcu ante. Quisque et lectus enim. Morbi erat justo, cursus at blandit vel, porta non ipsum.
+
+![Enviar QR](../../../static/img/DetalleSolicitud.png)
 
 ## Creación de agenda de capacitación
 
+![Agenda](../../../static/img/Agenda.png)
 Morbi sed ex id lacus vestibulum ultricies sit amet vel ipsum. Aliquam vel massa vel risus imperdiet laoreet. Donec vel sagittis sem, et ullamcorper augue. Etiam vitae convallis tellus. Vestibulum sed mollis justo. Morbi posuere vitae nunc quis ornare. In gravida placerat consequat. Mauris eget velit auctor, cursus sem varius, elementum tellus. Nulla facilisi. Donec in pulvinar ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 ## Envio de inscripción digital [Código QR]
 
+![Enviar QR](../../../static/img/Nueva%20entrada%20agenda.png)
 Ut aliquet nulla tincidunt interdum lobortis. Ut facilisis bibendum dignissim. Mauris vel erat nec metus posuere aliquam tristique ac metus. Vivamus pharetra mauris ex, et egestas lectus vestibulum nec. Donec ultricies pharetra eros non malesuada. Curabitur faucibus felis non diam venenatis, eu tincidunt urna bibendum. Proin vulputate lorem sit amet orci congue dapibus. Phasellus venenatis tempus libero, sed scelerisque tellus vulputate in. Vivamus euismod ultricies cursus. Morbi diam turpis, maximus et iaculis a, pharetra non libero.
+![Qr recibido](../../../static/img/MiCodigoQRT.png)
